@@ -1,3 +1,3 @@
-# travel
+# website
 
 https://aboutws.netlify.app
