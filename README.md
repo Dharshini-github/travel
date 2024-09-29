@@ -1,3 +1,3 @@
 # website
 
-https://aboutws.netlify.app
+https://aboutws.netlify.app/
